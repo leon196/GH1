@@ -1,2 +1,2 @@
 # GH1
-WebGL experiment with
+WebGL experiment
